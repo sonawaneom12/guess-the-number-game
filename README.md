@@ -12,4 +12,8 @@ Highest score tracking for a competitive twist.
 
 Sharpen your guessing skills, have fun, and aim for that high score! Ready to take on the challenge?
 
+
 ![image](https://github.com/sonawaneom12/guess-the-number-game/assets/111688696/dd693358-a434-48cc-8266-ad575c0348bb)
+
+![image](https://github.com/sonawaneom12/guess-the-number-game/assets/111688696/8e2422fa-7add-429d-9834-a8bf434832df)
+
